@@ -1,3 +1,34 @@
+# Processing
+
+```
+size (500, 500);
+background (0);
+float a = random(0, 500);
+
+stroke(0, 255, 0);
+strokeWeight(5);
+fill(255, 0, 0);
+rect(0, 0, 70, a);
+```
+
+```
+background (0);
+
+float a = random(0, 500);
+float b = random(0, 500);
+
+stroke(0, 255, 0);
+strokeWeight(5);
+
+fill(255, 0, 0);
+rect(0, 0, a, b);
+
+fill(255, 200, 90);
+rect(a + (500-a)/2, 0, (500-a)/2, b);
+```
+
+---
+
 # Sonic Pi
 
 "Sonic Pi is a code-based music creation and performance tool."
