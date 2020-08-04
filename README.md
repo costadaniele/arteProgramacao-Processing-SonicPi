@@ -1,13 +1,3 @@
-
-# Sonic Pi
-
-- **Music**
-
-    ![https://sonicpibrasil.files.wordpress.com/2015/10/logo.png?w=300](https://sonicpibrasil.files.wordpress.com/2015/10/logo.png?w=300)
-
-    ![https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png)
-
-
 # Sonic Pi
 
 "Sonic Pi is a code-based music creation and performance tool."
@@ -74,7 +64,7 @@ Help / Exemplos
 
 ### Tabela de notas MIDI
 
-![]/(/images/midi-int-midi-note-no-chart.jpg)
+![](/images/midi-int-midi-note-no-chart.jpg)
 
 ---
 ### Referências:
